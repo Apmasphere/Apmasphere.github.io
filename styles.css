@@ -326,6 +326,7 @@ footer a:hover {
 
 .business .content {
 	margin: 0 18em;
+	text-shadow: 0 1px 2px #333;
 }
 
 .team {
@@ -349,8 +350,13 @@ footer a:hover {
 	background-position: 50% 50%;
 }
 
+.contact .content {
+	text-shadow: 0 1px 2px #333;
+}
+
 .contact a {
 	color: #333;
+	text-shadow: none;
 }
 
 .contact a:active,
